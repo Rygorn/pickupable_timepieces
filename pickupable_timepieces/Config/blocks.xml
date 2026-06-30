@@ -17,7 +17,7 @@
     </append>
 	
 	<append xpath="/blocks/block[@name='wallClockBroken']" >
-      	<property name="CanPickup" value="true" param1="wallClockBroken,1/>
+      	<property name="CanPickup" value="true" param1="wallClockBroken,1"/>
     </append>
 	
 </configs>
